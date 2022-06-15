@@ -1,0 +1,2 @@
+const itemDescription = 'Succulent stewed lamb braised in alpachino sauce while bring slowly marinated in the broth of the caribbean ancestors that set foot in this region hundreds of years ago!';
+const kitchenDescription = 'Feast on authentic South Indian fare from the Top Kitchen on this side of South London! 1 Hour delivery tops!';
